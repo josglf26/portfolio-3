@@ -309,7 +309,7 @@ header h2 {
 .edtecnica,
 .freecodecamp {
     display: flex;
-    gap: 10px;
+    gap: 15px;
     padding: 15px 0;
     position: relative;
 }
