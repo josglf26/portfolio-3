@@ -344,6 +344,7 @@ header h2 {
 }
 
 .t-formation h4 {
+    font-weight: normal;
     margin-bottom: 0.5rem;
 }
 
@@ -410,6 +411,10 @@ footer h4 {
 
 .extra-item a:hover {
     text-decoration: underline;
+}
+
+.badge-item img {
+    width: 100%;       
 }
 
 @media (max-width: 600px) {
